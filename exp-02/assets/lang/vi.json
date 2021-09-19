@@ -1,0 +1,24 @@
+{
+    "vi" :
+    {
+        "welcome"           :   "Hello world",
+        "toi_la"            :   "Tôi là",
+        "gioi_thieu"        :   "Chào mừng quý vị đến với ứng dụng hỗ trợ Shipper tìm đơn hàng",
+        "moi_dang_ky"       :   "Hoặc quý vị có thể đăng ký tài khoản để sử dụng các tính năng nâng cao khác",
+        "shipper"           :   "Shipper",
+        "tim_shipper"       :   "Tìm Shipper",
+        "facebook"          :   "facebook",
+        "dang_ky"           :   "Đăng ký"
+    },
+    "en" :
+    {
+        "welcome"           :   "Hello world",
+        "toi_la"            :   "Tôi là",
+        "gioi_thieu"        :   "Chào mừng bạn đến với ứng dụng hỗ trợ Shipper tìm đơn hàng",
+        "moi_dang_ky"       :   "Hoặc bạn có thể đăng ký tài khoản để sử dụng các tính năng nâng cao khác",
+        "shipper"           :   "Shipper",
+        "tim_shipper"       :   "Tìm Shipper",
+        "facebook"          :   "facebook",
+        "dang_ky"           :   "Đăng ký"
+    }
+}
